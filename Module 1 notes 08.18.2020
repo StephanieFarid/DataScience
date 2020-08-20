@@ -1,0 +1,31 @@
+Comments:
+  # creates a comment. This can be standalone or in-line. 
+  
+  Commands do not end with ; only ends when the words end on the line. 
+  However, you can make it continue on the next line by using \ or () 
+  i.e. 1+2+3+4+\
+       5+6+7+8
+OR
+      (1+2+3+4+
+      5+6+7+8)
+      
+; can terminate a statement 
+i.e. lower(); upper()
+        is the same as
+     lower()
+     upper()
+     
+White space is meaningful before lines BUT not in lines
+indentation indicates code block preceeded by ":"
+
+Standard indentation is 4 spaces / Tab
+
+() are for grouping or calling 
+
+Assigning variables 
+name = value
+i.e. x = 4
+this also means that you do not need to assign a type. Names are just "pointing to the values. 
+
+Attributes .attribute
+Methods .method()
