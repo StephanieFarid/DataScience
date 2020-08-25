@@ -1,2 +1,2 @@
-# DataScienceNotes
-Notes for TTS Data Science class.
+# DataScience
+All work for TTS Data Science class.
